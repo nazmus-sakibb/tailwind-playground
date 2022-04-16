@@ -1,5 +1,25 @@
 {
-    "script": {
-        "start": "vite"
-    }
+  "name": "tailwind-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nazmus-sakibb/tailwind-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nazmus-sakibb/tailwind-playground/issues"
+  },
+  "homepage": "https://github.com/nazmus-sakibb/tailwind-playground#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.4",
+    "postcss": "^8.4.12",
+    "tailwindcss": "^3.0.24",
+    "vite": "^2.9.5"
+  }
 }
